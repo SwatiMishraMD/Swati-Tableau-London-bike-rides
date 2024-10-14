@@ -1,5 +1,7 @@
 # Swati Tableau London rides
 
+View full Dashboard on Tableau Public - https://public.tableau.com/app/profile/swati.mishra2114/viz/Londonbikerides_17288672853440/Dashboard1
+
 An interactive Tableau Dashboard to show London rides frequency, and the weather conditions (wind and temp).
 
 Dashboard -
